@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Initialized empty git repository. make metadata to track repository
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	staging area : before git committed. various files can be stored in staging area and committed together
+	repository : git committed
+	working directory : my disk. normal save
