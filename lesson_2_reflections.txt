@@ -5,3 +5,6 @@ How is the staging area different from the working directory and the repository?
 	staging area : before git committed. various files can be stored in staging area and committed together
 	repository : git committed
 	working directory : my disk. normal save
+
+How can you use the staging area to make sure you have one commit per logical change?
+	add to the staging area until one logical change finished
